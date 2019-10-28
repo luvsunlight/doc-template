@@ -1,0 +1,3 @@
+# Doc template
+
+> DOC TEMPLATE

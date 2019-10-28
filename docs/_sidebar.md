@@ -1,0 +1,1 @@
+-   [Setup](/_posts/setup)
